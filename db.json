@@ -5,14 +5,14 @@
       "name": "Bugatti Chiron",
       "model": "2022",
       "price": "3000",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/McLaren_P1_%28cropped%29.jpg"
+      "image":"image/free-photo-of-mclaren-650s-widebody-liberty-walk.jpeg"
     },
     {
       "id": 2,
       "name": "Ferrari LaFerrari",
       "model": "2015",
       "price": "2500",
-      "image": "https://images.pexels.com/photos/919073/pexels-photo-919073.jpeg"
+      "image": "pexels "
     },
     {
       "id": 3,
